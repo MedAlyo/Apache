@@ -89,7 +89,7 @@ In this project, I explored the installation and configuration of the Apache web
 - **Annex B** provides an example of an Apache `VirtualHost` configuration file, which is central to setting up Apache to serve your website.
 
 # Bibliography
-- What is Apache (https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
+- [What is Apache](https://www.greengeeks.com/blog/what-is-apache/#What_Is_Apache)
 - Apache server (https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 - resolving the problem (https://discourse.ubuntu.com/t/install-and-configure-apache/13955)
 - Followed steps (https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)
